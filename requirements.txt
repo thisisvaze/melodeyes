@@ -1,0 +1,7 @@
+audiocraft
+azure-ai-vision
+opencv-python
+pydub
+simpleaudio
+openai
+pillow
